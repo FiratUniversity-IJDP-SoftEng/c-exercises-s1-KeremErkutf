@@ -1,4 +1,7 @@
 #include <stdio.h>
-int main {
+int main() {
+    int guess;
+    printf("Guess a number 1 to 5.")
+    scanf(% , &guess):
     
 }
